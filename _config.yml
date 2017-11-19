@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Moms the World
+description: Moms around the world sharing their journey through motherhood
+keywords: Mom, Parent, Baby
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
